@@ -5,20 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.5.3
+* Instagram clone application for user image uploading and commenting.
+* HTML, CSS, Ruby, Bootstrap, Devise, Carrierwave
 
-* System dependencies
+* Deploy in your local rails environment using *rails server -b 0.0.0.0 -p 3000* and open your browser to http://localhost:3030
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
